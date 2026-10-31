@@ -1,6 +1,6 @@
 ### Hi, I'm Bastián Ortiz de Zárate 👋
 
-I'm a Computer Engineering student from Chile, focused on **defensive security, network monitoring and real-time data processing**.
+I'm a Computer Engineering student from Chile, focused on defensive security, network monitoring and real-time data processing.
 
 ### Projects
 
